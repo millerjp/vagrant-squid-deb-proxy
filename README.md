@@ -48,4 +48,4 @@ This has been copied and and modified for my set-up from [Brian Cantoni's](https
 
 ## Licence
 
-This is distributed under [Apache License v2](./LICENCE) and comes without any support. But feel free to use it :)
+This is distributed under [Apache License v2](LICENCE) and comes without any support. But feel free to use it :)
