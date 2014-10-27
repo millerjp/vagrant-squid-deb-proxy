@@ -31,7 +31,7 @@ Simple squid-deb-proxy image for caching deb packages.
 
 1. Now start your other VMs as normal. They should start using this VM as a proxy/cache during any `apt-get` commands.
 
-## Notes:
+## Notes
 1. Connect up to the VM
 
         vagrant ssh
@@ -42,10 +42,10 @@ Simple squid-deb-proxy image for caching deb packages.
 	
 
 
-## Credit:
+## Credit
 
 This has been copied and and modified for my set-up from [Brian Cantoni's](https://github.com/bcantoni) project: https://github.com/bcantoni/vagrant-deb-proxy . He has some great Vagrant images - check them out.
 
-## Licence:
+## Licence
 
-This is distributed under Apache License v2 and comes without any support. But feel free to use it :)
+This is distributed under [Apache License v2](./LICENCE) and comes without any support. But feel free to use it :)
